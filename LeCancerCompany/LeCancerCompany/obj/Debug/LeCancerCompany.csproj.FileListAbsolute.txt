@@ -1,0 +1,11 @@
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\bin\Debug\LeCancerCompany.exe.config
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\bin\Debug\LeCancerCompany.exe
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\bin\Debug\LeCancerCompany.pdb
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.csprojResolveAssemblyReference.cache
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.Main.resources
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.Properties.Resources.resources
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.csproj.GenerateResource.Cache
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.exe
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.pdb
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.Vizualizador.resources
+C:\Users\gvela\OneDrive\Desktop\Prog 3\LeCancerCompany\LeCancerCompany\obj\Debug\LeCancerCompany.Registro.resources
